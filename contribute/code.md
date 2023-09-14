@@ -1,8 +1,6 @@
 ---
 label: Code of Conduct
 icon: ":books:"
-meta:
-  title: "Code of Conduct"
 order: "0"
 authors:
   - name: Adultress

@@ -6,8 +6,6 @@ authors:
     email: adultress@clients.fun
     link: https://github.com/Adultress
     avatar: https://avatars.githubusercontent.com/u/144182387?v=4
-meta:
-  title: "FAQ"
 order: "90"
 ---
 # FAQ

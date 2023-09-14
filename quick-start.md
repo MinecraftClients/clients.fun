@@ -1,8 +1,6 @@
 ---
 label: Quick Start
 icon: ":zap:"
-meta:
-  title: "Quick Start"
 order: "99"
 authors:
   - name: Adultress

@@ -1,8 +1,6 @@
 ---
 label: Guidelines
 icon: ":beers:"
-meta:
-  title: "Guidelines"
 order: "1"
 authors:
   - name: Adultress
@@ -10,7 +8,7 @@ authors:
     link: https://github.com/Adultress
     avatar: https://avatars.githubusercontent.com/u/144182387?v=4
 ---
-# Contributing Guidelines
+# Guidelines
 Thank you for considering contributing to the Wiki for Minecraft Clients! We appreciate your help in making this resource even more valuable to the Minecraft clients community.
 
 ## How Can You Contribute?

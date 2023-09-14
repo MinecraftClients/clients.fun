@@ -1,8 +1,6 @@
 ---
 label: Contribute
 icon: ":pencil:"
-meta:
-  title: "Contribute"
 order: "1"
 authors:
   - name: Adultress

@@ -1,8 +1,6 @@
 ---
 label: Slang
 icon: ":eyes:"
-meta:
-  title: "Slang"
 order: "91"
 authors:
   - name: Adultress
