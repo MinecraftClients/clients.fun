@@ -2,7 +2,7 @@
 label: Slang
 icon: ":eyes:"
 meta:
-  title: "Slang - Clients Wiki"
+  title: "Slang"
 order: "91"
 authors:
   - name: Adultress

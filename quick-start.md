@@ -2,7 +2,7 @@
 label: Quick Start
 icon: ":zap:"
 meta:
-  title: "Quick Start - Clients Wiki"
+  title: "Quick Start"
 order: "99"
 authors:
   - name: Adultress
@@ -26,12 +26,13 @@ To get into Minecraft, we'll need some kind of launcher.
 +++ Cracked
 {.list-icon}
 - :icon-check-circle: [UltimMC](https://github.com/UltimMC/Launcher)
-- :icon-check-circle: [PollyMC](https://github.com/fn2006/PollyMC) [!badge variant="info" size="xs" corners="square" text="Fork of Prism"]
+- :icon-check-circle: [Prism](https://github.com/Diegiwg/PrismLauncher-Cracked) [!badge variant="ghost" size="xs" corners="square" text="Cracked"]
 - :icon-check-circle: [GDLauncher](https://github.com/boyphongsakorn/GDLauncher-Cracked) [!badge variant="ghost" size="xs" corners="square" text="Cracked"]
 - :icon-check-circle: [MultiMC](https://github.com/PibePlayer/MultiMC5-Cracked) [!badge variant="ghost" size="xs" corners="square" text="Cracked"]
 - :icon-check-circle: [Mineshafter](https://mineshafter.info/)
 - :icon-check-circle: [Extreme](https://extremelauncher.net/download/)
 - :icon-check-circle: [Vortex](https://github.com/Kron4ek/minecraft-vortex-launcher)
+- :icon-check-circle: [PollyMC](https://github.com/fn2006/PollyMC) [!badge variant="info" size="xs" corners="square" text="Fork of Prism"]
 +++ Untrusted
 {.list-icon}
 - :icon-alert: TLauncher [!badge variant="danger" size="xs" corners="square" text="Spyware!" target="blank"](https://www.reddit.com/r/PiratedGames/comments/zmzzrt/the_truth_about_tlauncher_and_the_spyware/)
@@ -61,10 +62,12 @@ Name | Version(s) | Price | Description
 [Slinky](https://slinky.gg/) | 1.7.10, 1.8.9 | $21.44/mo, $96.54/6mo or $128.72/yr |
 [Flux](https://flux.today/) | No clue | $20 |
 [Novoline](https://www.novoline.wtf/) | 1.8.9 | $20 |
+[Orbit](https://orbitclient.com/) | 1.8.9 | $30
+[Tenacity](https://tenacity.dev/) | No clue | $19.99
 +++ Java (Free)
 Name | Version(s) | Open Source | Description
 --- | --- | --- | ---
-[LiquidBounce](https://liquidbounce.net/) | 1.8.9, 1.12.2, 1.20.1 | [Link](https://github.com/CCBlueX/LiquidBounce) :heavy_check_mark: |
+[LiquidBounce](https://liquidbounce.net/) | 1.8.9, 1.12.2, 1.20.1 | [Link :heavy_check_mark:](https://github.com/CCBlueX/LiquidBounce) |
 [Wolfram](https://www.wolframclient.net/) | 1.8.9 ~ 1.12.2 | :x: | 
 [Wurst](https://www.wurstclient.net/) | 1.7.2 ~ 1.20.1 | [Link :heavy_check_mark:](https://github.com/Wurst-Imperium/Wurst7) |
 [Aristois](https://aristois.net/) | 1.8.9 ~ 1.20.1 | :x: |
@@ -72,6 +75,10 @@ Name | Version(s) | Open Source | Description
 [PepsiMod](https://www.pepsi.team/) | 1.12.2 | [Link :heavy_check_mark:](https://github.com/Team-Pepsi/pepsimod) |
 [Lumina](https://luminaclient.com/) | 1.19.4 ~ 1.20.1 | [Link :heavy_check_mark:](https://github.com/LuminaDevelopment/LuminaClient)
 [Impact](https://impactclient.net/) | 1.11.2 ~ 1.16.5 | :x: |
++++ Java - Wynncraft (Free)
+Name | Version(s) | Open Source | Description
+--- | --- | --- | ---
+[RoseGold](https://github.com/RoseGoldIsntGay/RoseGoldClient) | No clue | [Link :heavy_check_mark:](https://github.com/RoseGoldIsntGay/RoseGoldClient) | Specifically used for Wynncraft
 +++ Bedrock (Free)
 Client | Version(s) | Price | Description
 --- | --- | --- | ---
@@ -83,5 +90,6 @@ Client | Reason
 --- | ---
 Phobos [!badge variant="ghost" size="xs" corners="square" text="Dead"] | Died as a consequence of 3arthqu4ke not wanting to develop it further
 Hovac and Itami [!badge variant="warning" size="xs" corners="square" text="Rat"](https://www.reddit.com/r/minecraftclients/comments/umhsma/guyz_please_do_not_download_hobac_ape_insteller/) | Contains a RAT
+Zephyr [!badge variant="ghost" size="xs" corners="square" text="Rat"] | Ambrosial/Zephyr has been found to upload unwanted sexual content to the assets folder
 +++
 ___

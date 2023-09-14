@@ -7,7 +7,7 @@ authors:
     link: https://github.com/Adultress
     avatar: https://avatars.githubusercontent.com/u/144182387?v=4
 meta:
-  title: "Clients Wiki"
+  title: "Index"
 order: "100"
 ---
 # ![Minecraft Clients Wiki](static/mc-wiki.png)
